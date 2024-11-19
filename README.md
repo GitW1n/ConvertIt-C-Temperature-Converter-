@@ -20,3 +20,4 @@ The program displays the result accurate to two decimal places.
 ## How to use
 1. Download or clone the repository.
 2.Compile the program using a C compiler such as GCC:
+gcc -o temperature_converter temperature_converter.c
