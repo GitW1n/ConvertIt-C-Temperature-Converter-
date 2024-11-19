@@ -27,3 +27,4 @@ gcc -o temperature_converter temperature_converter.c
 ```
 ./temperature_converter
 ```
+4. Enter the temperature in Celsius and the scale type to convert.
