@@ -4,3 +4,4 @@ Temperature Converter is a simple console program written in C that allows the u
 The program allows you to perform the following temperature conversions:
 Celsius (°C) to Fahrenheit (°F)
 Celsius (°C) to Kelvin (K)
+Celsius (°C) to Rankin (°R)
