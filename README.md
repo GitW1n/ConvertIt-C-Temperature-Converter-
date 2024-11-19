@@ -12,3 +12,5 @@ A letter indicating the type of scale to which the temperature should be convert
 'F' or 'f' is for Fahrenheit.
 'K' or 'k' is for Kelvin.
 'R' or 'r' is for Rankin.
+
+The program displays the result accurate to two decimal places.
