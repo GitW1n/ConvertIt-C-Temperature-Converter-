@@ -18,3 +18,4 @@ A letter indicating the type of scale to which the temperature should be convert
 The program displays the result accurate to two decimal places.
 
 ## How to use
+Download or clone the repository.
