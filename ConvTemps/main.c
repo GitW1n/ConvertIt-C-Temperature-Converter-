@@ -14,7 +14,8 @@ int main() {
 
     if (type == 'F' || type == 'f') {
         printf("%.2f\n", (temperature * 9.0 / 5.0) + 32);
-    } else {
+    } else if ( type == 'K' || 'k')
+    else {
         printf("Invalid type!!!\n");
     }
 
