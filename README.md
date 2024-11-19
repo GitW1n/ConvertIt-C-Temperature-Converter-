@@ -23,3 +23,4 @@ The program displays the result accurate to two decimal places.
 ```
 gcc -o temperature_converter temperature_converter.c
 ```
+3. Run the program:
