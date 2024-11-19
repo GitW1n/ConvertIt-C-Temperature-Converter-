@@ -9,3 +9,6 @@ Celsius (°C) to Rankin (°R)
 The program accepts two inputs:
 Temperature in degrees Celsius.
 A letter indicating the type of scale to which the temperature should be converted:
+'F' or 'f' is for Fahrenheit.
+'K' or 'k' is for Kelvin.
+'R' or 'r' is for Rankin.
