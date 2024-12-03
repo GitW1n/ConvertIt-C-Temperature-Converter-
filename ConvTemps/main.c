@@ -13,7 +13,7 @@ int main() {
 
     printf("Enter type (F for Fahrenheit, K for Kelvin, R for Rankine): ");
     if (scanf(" %c", &type) != 1) {
-        printf("Invalid type input!\n");
+        printf("Invalid type input!\n");// Return with error
         return 1;// Return with error
     }
 
