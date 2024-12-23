@@ -19,7 +19,6 @@ int main() {
 
     if (type == 'F' || type == 'f') {
         printf("Temperature in Fahrenheit: %.2f\n", (temperature * 9.0 / 5.0) + 32);
-    if (type == 'F' || type == 'f') {
         printf("Temperature in Fahrenheit: %.2f\n", (temperature * 9.0 / 5.0) + 32);
     } else if (type == 'K' || type == 'k') {
         printf("Temperature in Kelvin: %.2f\n", temperature + 273.15);
